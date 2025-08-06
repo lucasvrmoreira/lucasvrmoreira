@@ -19,6 +19,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-snake.gif
           theme: github-light
+          layout: wide
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
