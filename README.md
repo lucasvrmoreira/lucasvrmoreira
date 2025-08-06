@@ -48,17 +48,12 @@
 
 ## 🐍 Contribution Snake
 
-### SVG
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/github-contribution-grid-snake.svg" />
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/github-contribution-grid-snake.svg)
-
-### GIF (Animado)
-
-![Snake gif](https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/github-contribution-grid-snake.gif)
 
 
 ---
 
-<!-- GitHub Action para a cobrinha -->
-<!-- Ative isso no seu repositório depois de subir -->
 
