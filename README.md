@@ -48,9 +48,14 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/github-contribution-grid-snake.svg" />
-</p>
+### SVG
+
+![Snake animation](https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/github-contribution-grid-snake.svg)
+
+### GIF (Animado)
+
+![Snake gif](https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/github-contribution-grid-snake.gif)
+
 
 ---
 
