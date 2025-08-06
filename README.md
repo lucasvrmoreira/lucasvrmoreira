@@ -46,7 +46,7 @@
 
 ---
 
-
+🟩 Jan 🟨 Feb 🟥 Mar 🟦 Apr 🟪 May ⬜ Jun 🟫 Jul 🟧 Aug ⬛ Sep 🟨 Oct 🟥 Nov 🟩 Dec
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/github-contribution-grid-snake.svg?palette=github-dark" />
