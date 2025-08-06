@@ -48,11 +48,7 @@
 
 
 <p align="center">
-🟩 Jan &nbsp; 🟧 Feb &nbsp; 🟥 Mar &nbsp; 🟦 Apr &nbsp; 🟪 May &nbsp; ⬜ Jun &nbsp; 🟫 Jul &nbsp; 🟧 Aug &nbsp; ⬛ Sep &nbsp; 🟨 Oct &nbsp; 🟥 Nov &nbsp; 🟩 Dec
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/pacman-contribution-graph.svg" />
 </p>
 
 
