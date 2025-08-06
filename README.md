@@ -1,59 +1,89 @@
-<h1 align="center">Hi there, I'm Lucas Moreira 👋</h1>
+<h1 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Lucas+Moreira!+)](https://git.io/typing-svg)
+</h1>
 
-<p align="center">
-  <em>Cloud | DevOps | Backend Developer • Passionate about automation and good code</em>
-</p>
-
----
-
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🌎 Based in Brazil
 - 🧠 Focused on backend development and automation
-- 🔧 Learning DevOps, CI/CD and Cloud infrastructure
+- 🔧 Learning Docker,React+Vite
 - 🤝 Open to tech collaborations and projects
-- 💬 Ask me about Python, Flask, React or DevOps!
+  
 
 ---
 
-## 🛠️ Skills & Tools
+<h2 align="left">🚀 Skills & Tools</h2>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-</p>
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=white" height="35" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white" height="35" />
+</div>
 
-## 📊 GitHub Stats
+###
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="docker logo"  />
+  <img width="12" />
+  
+</div>
+
+###
+
+
+<h2 align="left">📈 GitHub Stats</h2>
+
+###
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasvrmoreira&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvrmoreira&layout=compact&theme=tokyonight" width="320"/>
 </p>
 
----
+###
 
-## 📬 Connect with Me
+<h2 align="left">📫 Connect with Me</h2>
 
-- 📧 Email: [lucasvrmoreira@gmail.com](mailto:lucasvrmoreira@gmail.com)  
-- 🌐 GitHub: [github.com/lucasvrmoreira](https://github.com/lucasvrmoreira)
+###
 
----
+<div align="center">
 
+📧 **Email: <a href="mailto:lucasvrmoreira@gmail.com">lucasvrmoreira@gmail.com</a>**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/pacman-contribution-graph.svg" />
-</p>
+<br><br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucasvrmoreira)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/lucasvrmoreira)
 
+</div>
 
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasvrmoreira/lucasvrmoreira/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
