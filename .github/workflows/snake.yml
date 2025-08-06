@@ -17,6 +17,8 @@ jobs:
           github_user_name: lucasvrmoreira
           outputs: |
             dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-snake.gif
+          theme: github-light
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
