@@ -3,12 +3,13 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Lucas+Moreira!+)](https://git.io/typing-svg)
 </h1>
 
-### 👨‍💻 About Me
 
-- 🌎 Based in Brazil
-- 🧠 Focused on backend development and automation
-- 🔧 Learning Docker,React+Vite
-- 🤝 Open to tech collaborations and projects
+### 👨‍💻 Sobre Mim
+
+- 🚀 **Foco Atual:** Especializando em **Backend Development** e arquiteturas escaláveis.
+- ⚙️ **Automação:** Experiência em otimizar fluxos de trabalho e processos com **Python**.
+- 🛠️ **Stack em Evolução:** Atualmente explorando o ecossistema **Docker** e o frontend moderno com **React **.
+- 🌎 **Conexão:** Localizado no Brasil 🇧🇷, pronto para colaborar em projetos globais e iniciativas Open Source.
   
 
 ---
@@ -50,10 +51,9 @@
  
 </div>
 
-###
 
 
-<h2 align="left">📈 GitHub Stats</h2>
+
 
 ###
 
